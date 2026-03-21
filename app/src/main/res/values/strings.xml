@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SIT305 -ConverterApp</string>
+    <string name="travel_companion_app">Travel Companion App</string>
+    <string name="select_category">Select Category</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="enter_value_label">Enter Value</string>
+    <string name="enter_value_hint">Enter value</string>
+    <string name="convert_button">Convert</string>
+    <string name="result_placeholder"></string>
+</resources>

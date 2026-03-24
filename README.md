@@ -1,4 +1,4 @@
-# Unit Converter App
+# Travel Companion App
 
 ## Overview
 This project is an Android Studio application developed using **Java** and **XML**. The app allows users to convert values across three categories:
